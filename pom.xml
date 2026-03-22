@@ -30,7 +30,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>box.Box</mainClass>
+                            <mainClass>test.Run</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
